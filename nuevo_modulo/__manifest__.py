@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Testing",
+    'name': "My first time",
 
     'summary': """Testing module""",
 
